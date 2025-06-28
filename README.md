@@ -1,15 +1,14 @@
 
 
 ### 🖼️ Screenshots – Library Management System (C# Windows Forms)
-
-<p align="center"><strong>🔐 Login Screen</strong></p>
-<p align="center">
-  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215042.png?raw=true" width="600" alt="Login Page" />
-</p>
-
-<p align="center"><strong>🏠 Dashboard Overview</strong></p>
+<strong>🔐 Login Screen</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215335.png?raw=true" width="600" alt="Dashboard" />
+</p>
+<p align="center"><strong>🏠 Dashboard Overview</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215042.png?raw=true" width="600" alt="Login Page" />
 </p>
 
 <p align="center"><strong>📚 Add New Book</strong></p>
