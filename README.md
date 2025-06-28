@@ -1,60 +1,60 @@
 
-
+📸 Demo
+🌐 Live Demo: GitHub Repository
+🎥 Demo Video: Coming Soon
 ### 🖼️ Screenshots – Library Management System (C# Windows Forms)
 <strong>🔐 Login Screen</strong>
 <p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215335.png?raw=true" width="600" alt="Dashboard" />
 </p>
-<p align="center"><strong>🏠 Dashboard Overview</strong></p>
+🏠 Dashboard Overview</strong>
+<p align="center"><strong></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215042.png?raw=true" width="600" alt="Login Page" />
 </p>
-
-<p align="center"><strong>📚 Add New Book</strong></p>
+<strong>📚 Add New Book</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215348.png?raw=true" width="600" alt="Add Book" />
 </p>
-
-<p align="center"><strong>🧑‍🎓 Add New Student</strong></p>
+🧑‍🎓 Add New Student</strong>
+<p align="center"><strong></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215521.png?raw=true" width="600" alt="Add Student" />
 </p>
-
-<p align="center"><strong>📄 View Student Info</strong></p>
+<strong>📄 View Student Info</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215556.png?raw=true" width="600" alt="View Student" />
 </p>
-
-<p align="center"><strong>📖 Issue Book</strong></p>
+<strong>📖 Issue Book</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215955.png?raw=true" width="600" alt="Issue Book" />
 </p>
-
-<p align="center"><strong>📥 Return Book</strong></p>
+<strong>📥 Return Book</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220036.png?raw=true" width="600" alt="Return Book" />
 </p>
-
-<p align="center"><strong>📘 Complete Book List</strong></p>
+<strong>📘 Complete Book List</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220104.png?raw=true" width="600" alt="Book List" />
 </p>
-
-<p align="center"><strong>🧾 Issued Book List</strong></p>
+<strong>🧾 Issued Book List</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220138.png?raw=true" width="600" alt="Issued Books" />
 </p>
-
-<p align="center"><strong>🚪 Exit / Logout</strong></p>
+<strong>🚪 Exit / Logout</strong>
+<p align="center"></p>
 <p align="center">
   <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220201.png?raw=true" width="600" alt="Exit Application" />
 </p>
 
 ---
-
-
-
 # 📚 Advanced Library Management System (C#)
 
 A **robust, full-featured Library Management System** built using **C# and .NET** technologies. It supports **multi-role access**, **inventory automation**, and **rich analytics**, making it suitable for **schools, universities, public libraries**, or **enterprise-level deployments**.
