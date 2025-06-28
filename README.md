@@ -1,6 +1,60 @@
-**enhanced version** of the README for your **Library Management System in C#**, with **more detailed modules, feature extensions, UI improvements**, and **enterprise-ready options**. This is suitable for a **big system** — such as one used in a university or municipal library.
+
+
+### 🖼️ Screenshots – Library Management System (C# Windows Forms)
+
+<p align="center"><strong>🔐 Login Screen</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215042.png?raw=true" width="600" alt="Login Page" />
+</p>
+
+<p align="center"><strong>🏠 Dashboard Overview</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215335.png?raw=true" width="600" alt="Dashboard" />
+</p>
+
+<p align="center"><strong>📚 Add New Book</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215348.png?raw=true" width="600" alt="Add Book" />
+</p>
+
+<p align="center"><strong>🧑‍🎓 Add New Student</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215521.png?raw=true" width="600" alt="Add Student" />
+</p>
+
+<p align="center"><strong>📄 View Student Info</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215556.png?raw=true" width="600" alt="View Student" />
+</p>
+
+<p align="center"><strong>📖 Issue Book</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20215955.png?raw=true" width="600" alt="Issue Book" />
+</p>
+
+<p align="center"><strong>📥 Return Book</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220036.png?raw=true" width="600" alt="Return Book" />
+</p>
+
+<p align="center"><strong>📘 Complete Book List</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220104.png?raw=true" width="600" alt="Book List" />
+</p>
+
+<p align="center"><strong>🧾 Issued Book List</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220138.png?raw=true" width="600" alt="Issued Books" />
+</p>
+
+<p align="center"><strong>🚪 Exit / Logout</strong></p>
+<p align="center">
+  <img src="https://github.com/Din-Rasin/Library-Management-System-C_Sharp/blob/main/View%20Picture%20Demo%20C%23%20Library%20Management%20System/Screenshot%202025-05-24%20220201.png?raw=true" width="600" alt="Exit Application" />
+</p>
 
 ---
+
+
 
 # 📚 Advanced Library Management System (C#)
 
